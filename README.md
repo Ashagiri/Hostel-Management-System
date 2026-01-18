@@ -6,3 +6,7 @@ This project includes features like student registration, room allocation, fee t
 2. Komal Basnet
 3. Jitendra Narayan Raut
 4. Gagan Parsai
+ 
+ # Images:
+ 1. Hostel:
+ 
