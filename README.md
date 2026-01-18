@@ -7,6 +7,5 @@ This project includes features like student registration, room allocation, fee t
 3. Jitendra Narayan Raut
 4. Gagan Parsai
  
- # Images:
- 1. Hostel:
- 
+# About Hostel:
+A hostel is a type of budget-friendly accommodation that provides affordable living or lodging, especially for students, travelers, or people staying away from home. Unlike traditional hotels, hostels focus on shared spaces and community living, which helps reduce costs and encourages social interaction among residents.
