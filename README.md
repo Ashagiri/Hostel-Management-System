@@ -39,6 +39,9 @@ with the growing need for digital solutions in educational administration.
 # Objective:
  
 • To Centralize Hostel Data Management 
+
 • To Maintain Security, Integrity, and Backup of Hostel Data 
+
 • To Automate Daily Hostel Operations 
+
 • To Improve Communication Between Students and Hostel Staff
