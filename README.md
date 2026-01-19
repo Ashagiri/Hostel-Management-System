@@ -1,6 +1,17 @@
 # Hostel-Management-System
 This project includes features like student registration, room allocation, fee tracking, attendance, and detailed reports — all in one centralized system to modernize hostel operations.
 
+
+# Objective:
+ 
+• To Centralize Hostel Data Management 
+
+• To Maintain Security, Integrity, and Backup of Hostel Data 
+
+• To Automate Daily Hostel Operations 
+
+• To Improve Communication Between Students and Hostel Staff
+
 # Team Members:
 1. Asha Giri
 2. Komal Basnet
@@ -35,13 +46,3 @@ students and administrators, and ultimately improving the overall quality of hos
 project represents a step towards modernizing hostel management through technology, aligning 
 with the growing need for digital solutions in educational administration. 
 
-
-# Objective:
- 
-• To Centralize Hostel Data Management 
-
-• To Maintain Security, Integrity, and Backup of Hostel Data 
-
-• To Automate Daily Hostel Operations 
-
-• To Improve Communication Between Students and Hostel Staff
