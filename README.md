@@ -11,7 +11,7 @@ This project includes features like student registration, room allocation, fee t
 A hostel is a type of budget-friendly accommodation that provides affordable living or lodging, especially for students, travelers, or people staying away from home. Unlike traditional hotels, hostels focus on shared spaces and community living, which helps reduce costs and encourages social interaction among residents.
 
 # Introduction 
-1. Introduction: 
+# 1. Introduction: 
 
 The Hostel Management System is a database management system designed to streamline the 
 administration and management of hostel facilities in educational institutions. Managing a hostel 
