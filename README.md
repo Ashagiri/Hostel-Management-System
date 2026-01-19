@@ -34,4 +34,11 @@ a more organized and efficient hostel environment, fostering better communicatio
 students and administrators, and ultimately improving the overall quality of hostel services. This 
 project represents a step towards modernizing hostel management through technology, aligning 
 with the growing need for digital solutions in educational administration. 
-5
+
+
+# Objective:
+ 
+• To Centralize Hostel Data Management 
+• To Maintain Security, Integrity, and Backup of Hostel Data 
+• To Automate Daily Hostel Operations 
+• To Improve Communication Between Students and Hostel Staff
