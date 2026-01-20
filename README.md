@@ -45,7 +45,7 @@ students and administrators, and ultimately improving the overall quality of hos
 project represents a step towards modernizing hostel management through technology, aligning 
 with the growing need for digital solutions in educational administration. 
 
-3. System Analysis and Methology: 
+# 3. System Analysis and Methology: 
 3.1 System Requirements: 
 To develop a robust and efficient Hostel Management System (HMS), the following hardware 
 and software requirements were considered: 
