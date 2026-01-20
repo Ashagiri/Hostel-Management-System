@@ -45,3 +45,24 @@ students and administrators, and ultimately improving the overall quality of hos
 project represents a step towards modernizing hostel management through technology, aligning 
 with the growing need for digital solutions in educational administration. 
 
+3. System Analysis and Methology: 
+3.1 System Requirements: 
+To develop a robust and efficient Hostel Management System (HMS), the following hardware 
+and software requirements were considered: 
+3.1.1 Software Requirements 
+• FrontendTechnologies: 
+HTML, CSS, JavaScript — for building a responsive, user-friendly interface. 
+• BackendTechnologies: 
+PHP — for server-side scripting and handling business logic. 
+MySQL — for relational database management. 
+• Database: 
+MySQL is used to store student details, room records, payment status, booking data, and 
+complaint logs. 
+• WebServer: 
+Apache HTTP Server — to host the application and handle incoming client requests. 
+• Development Tools: 
+o Code Editor: Visual Studio Code, Sublime Text, or any preferred IDE 
+o Version Control: Git/GitHub — for managing source code and enabling team 
+collaboration 
+o Testing Tools: Browser Developer Tools (Chrome DevTools, Firefox Developer 
+Edition) 
