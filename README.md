@@ -66,3 +66,21 @@ o Version Control: Git/GitHub — for managing source code and enabling team
 collaboration 
 o Testing Tools: Browser Developer Tools (Chrome DevTools, Firefox Developer 
 Edition) 
+
+ # 3.1.2Methodology: 
+         The Hostel Management System will follow the Waterfall model due to its structured, 
+         sequential approach, which is ideal for projects with clear and stable requirements. The   
+            process will begin with requirements gathering, where the system’s features, such as  
+         room allocation and fee management, will be defined. In the design phase, a detailed  
+          blueprint for the system’s architecture and database will be created. The implementation 
+        phase will involve coding the system using technologies like PHP and JavaScript.  
+        Afterward, the system will undergo rigorous testing to ensure all features function as  
+           expected. Finally, the system will be deployed and maintained with regular updates to 
+        address user feedback and any emerging issues. The Waterfall model is well-suited for this  
+        project because it offers a clear, step-by-step process that ensures thorough development  
+        and minimizes risks. 
+Fig 1:Waterfall Model 
+The Waterfall Model is a linear and sequential software development methodology where each 
+phase of the project is completed before moving on to the next. It’s one of the earliest 
+structured approaches to software development, often attributed to Winston W. Royce’s 1970 
+paper, though he critiqued its rigidity. Below is a concise explanation of its key aspects:  
