@@ -118,3 +118,27 @@ o Students can view room listings, make bookings, and track payments
 • Online payment gateway simulation for processing transactions 
 • Payment success confirmation and automated room assignment 
 • Admin view of payment history and current transactions
+
+## 3.3 Security Considerations 
+To ensure data integrity and security, the system implements the following measures: 
+• User Authentication & Role-Based Access Control (RBAC) – Prevents 
+unauthorized access by restricting privileges based on user roles (admin vs. regular 
+user). 
+• Data Encryption – Passwords are stored using hashing algorithms to protect sensitive 
+user information. 
+• SQL Injection Prevention – Input validation and prepared statements are used 
+to prevent SQL injection attacks. 
+• Session Management – Secure sessions are implemented to prevent unauthorized access 
+after login. 
+3.4Feasibility Study: 
+A feasibility study for a Library Management System (LMS) evaluates the technical, 
+operational, financial, and legal aspects of the system. 
+3.4.1Technical Feasibility: 
+• Technology Stack: Assess software and hardware requirements, including servers, 
+databases, and programming languages. 
+• Integration: Determine if the LMS can integrate with other systems. 
+• Security: Ensure the system has adequate data protection. 
+3.4.2Operational Feasibility: 
+• Ease of Use 
+• Implementation Process 
+• Maintenance
