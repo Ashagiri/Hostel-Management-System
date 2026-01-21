@@ -98,3 +98,23 @@ testing, integration testing, and system testing to identify defects.
 end-user use. 
 6. Maintenance: Post-deployment, the system is maintained to fix bugs, implement 
 updates, or address user issues.
+
+## 3.2 Modules and Functionalities: 
+The Hostel Management System is structured into three main modules, each responsible for   
+distinct core functionalities: 
+1. Hostel Management Module 
+• Add, edit, or delete room records (room number, type, capacity, availability) 
+• Manage room booking status and monitor real-time occupancy 
+• Assign rooms to users after successful payment confirmation 
+2. User Management Module 
+• User registration and login authentication (students and admins) 
+• Manage user profiles (update personal details, password reset, etc.) 
+• Role-based access: 
+o Administrators can manage rooms, users, bookings, and payments 
+o Students can view room listings, make bookings, and track payments 
+3. Booking and Payment Module 
+• Students can book rooms through the system 
+• Payment reservation logic to temporarily hold room until payment is completed 
+• Online payment gateway simulation for processing transactions 
+• Payment success confirmation and automated room assignment 
+• Admin view of payment history and current transactions
