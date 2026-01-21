@@ -166,3 +166,8 @@ Used to add interactivity and dynamic behavior to the web application.
 Local server environment used for testing and development. 
 • Apache Web Server 
 Handles HTTP requests and serves web pages to users.
+
+
+## Outputs:
+<img width="1200" height="561" alt="image" src="https://github.com/user-attachments/assets/39e4084e-c0b5-42f7-8fc4-a006a6984b0e" />
+
