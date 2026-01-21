@@ -84,3 +84,17 @@ The Waterfall Model is a linear and sequential software development methodology 
 phase of the project is completed before moving on to the next. It’s one of the earliest 
 structured approaches to software development, often attributed to Winston W. Royce’s 1970 
 paper, though he critiqued its rigidity. Below is a concise explanation of its key aspects:  
+
+## Phases of the Waterfall Model 
+1. Requirements Analysis: All project requirements are gathered, documented, and 
+finalized. This includes functional and non-functional specifications. 
+2. System Design: The system architecture and detailed design are created based on the 
+requirements. This includes hardware, software, and interface specifications. 
+3. Implementation (Coding): Developers write the actual code based on the design 
+specifications. 
+4. Testing: The system is tested to ensure it meets the requirements. This includes unit 
+testing, integration testing, and system testing to identify defects. 
+5. Deployment: The completed system is deployed to the production environment for 
+end-user use. 
+6. Maintenance: Post-deployment, the system is maintained to fix bugs, implement 
+updates, or address user issues.
