@@ -142,3 +142,27 @@ databases, and programming languages.
 • Ease of Use 
 • Implementation Process 
 • Maintenance
+
+## 4.Implementation and Testing: 
+4.1Tools Used: 
+• Draw.io 
+Used for designing diagrams such as use cases, flowcharts, and database schemas for 
+the Library Management System. 
+• VS Code 
+Chosen as the code editor for efficient development and debugging. 
+• MySQL 
+Database management system used to store and manage library records. 
+• SQL Workbench 
+Utilized for querying and managing the MySQL database. 
+• PHP 
+Server-side scripting language used for backend logic and database interactions. 
+• CSS 
+Used for styling and enhancing the user interface. 
+• HTML 
+The core markup language for structuring web pages. 
+• JavaScript 
+Used to add interactivity and dynamic behavior to the web application. 
+• XAMPP 
+Local server environment used for testing and development. 
+• Apache Web Server 
+Handles HTTP requests and serves web pages to users.
