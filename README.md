@@ -170,4 +170,6 @@ Handles HTTP requests and serves web pages to users.
 
 ## Outputs:
 <img width="1200" height="561" alt="image" src="https://github.com/user-attachments/assets/39e4084e-c0b5-42f7-8fc4-a006a6984b0e" />
+<img width="1187" height="594" alt="image" src="https://github.com/user-attachments/assets/31e1c177-d16f-4157-8e47-4f8de0d8aad9" />
+
 
