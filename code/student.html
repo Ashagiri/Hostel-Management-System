@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hostel Management - Student Card</title>
+  <style>
+    body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f7fa;
+  margin: 0;
+  padding: 20px;
+}
+
+h2 {
+  color: #2c3e50;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.student-card {
+  background-color: #ffffff;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  padding: 15px;
+  transition: transform 0.2s;
+}
+
+.student-card:hover {
+  transform: scale(1.03);
+}
+
+.student-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 15px;
+  border: 2px solid #3498db;
+}
+
+.student-info {
+  flex-grow: 1;
+}
+
+.student-info h3 {
+  margin: 0 0 8px;
+  color: #34495e;
+}
+
+.student-info p {
+  margin: 4px 0;
+  font-size: 14px;
+  color: #555;
+}
+
+  </style>
+</head>
+<body>
+
+  <h2 style="text-align:center;">Student Profile </h2>
+
+  <div class="card-container">
+    
+    <div class="student-card">
+      <img src="jitendra.jpg" alt="Student Photo" class="student-photo">
+      <div class="student-info">
+        <h3>Jitendra Raut</h3>
+        <p><strong>Roll No:</strong>231410</p>
+        <p><strong>Course:</strong>BE.IT</p>
+        <p><strong>Room No:</strong> 203</p>
+        <p><strong>Block:</strong> A</p>
+      </div>
+    </div>
+
+    <div class="student-card">
+      <img src="https://via.placeholder.com/100" alt="Student Photo" class="student-photo">
+      <div class="student-info">
+        <h3>Abhishek Mehta</h3>
+        <p><strong>Roll No:</strong> 231411</p>
+        <p><strong>Course:</strong> BE.IT</p>
+        <p><strong>Room No:</strong> 204</p>
+        <p><strong>Block:</strong> B</p>
+      </div>
+    </div>
+
+     <div class="student-card">
+      <img src="https://via.placeholder.com/100" alt="Student Photo" class="student-photo">
+      <div class="student-info">
+        <h3>Gagan Parsai</h3>
+        <p><strong>Roll No:</strong> 231550</p>
+        <p><strong>Course:</strong> BE.IT</p>
+        <p><strong>Room No:</strong> 204</p>
+        <p><strong>Block:</strong> B</p>
+      </div>
+    </div>
+
+    <div class="student-card">
+      <img src="komal.jpg" alt="Student Photo" class="student-photo">
+      <div class="student-info">
+        <h3>Komal Basnet</h3>
+        <p><strong>Roll No:</strong> 231425</p>
+        <p><strong>Course:</strong> BE.IT</p>
+        <p><strong>Room No:</strong> 206</p>
+        <p><strong>Block:</strong> B</p>
+      </div>
+    </div>
+
+     <div class="student-card">
+      <img src="asha.jpg" alt="Student Photo" class="student-photo">
+      <div class="student-info">
+        <h3>Asha Giri</h3>
+        <p><strong>Roll No:</strong> 231410</p>
+        <p><strong>Course:</strong>BE.IT </p>
+        <p><strong>Room No:</strong> 205</p>
+        <p><strong>Block:</strong> C</p>
+      </div>
+    </div>
+
+     
+
+  </div>
+
+</body>
+</html>
