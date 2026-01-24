@@ -190,11 +190,6 @@ Handles HTTP requests and serves web pages to users.
 
 
 
-
-
-
-
-
 # Future Recommendations: 
 To further enhance the system, the following improvements are recommended: 
 1. 
