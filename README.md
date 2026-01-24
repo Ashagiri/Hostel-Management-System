@@ -175,6 +175,8 @@ Handles HTTP requests and serves web pages to users.
 <img width="944" height="452" alt="image" src="https://github.com/user-attachments/assets/54910c9b-509a-4fbd-8410-79fc4bd1bbca" />
 <img width="1202" height="567" alt="image" src="https://github.com/user-attachments/assets/5a86bc4e-e554-4d35-b543-afd206141af6" />
 <img width="1202" height="576" alt="image" src="https://github.com/user-attachments/assets/7808b479-25c2-4de7-96db-7fe2fed1d36e" />
+<img width="1198" height="814" alt="image" src="https://github.com/user-attachments/assets/5d651df3-e35e-4f0b-bf13-5b74b7453f7f" />
+
 
 
 
