@@ -173,6 +173,26 @@ Handles HTTP requests and serves web pages to users.
 <img width="1187" height="594" alt="image" src="https://github.com/user-attachments/assets/31e1c177-d16f-4157-8e47-4f8de0d8aad9" />
 <img width="970" height="738" alt="image" src="https://github.com/user-attachments/assets/1ef24e7f-7458-419c-a264-5106a11404b8" />
 <img width="944" height="452" alt="image" src="https://github.com/user-attachments/assets/54910c9b-509a-4fbd-8410-79fc4bd1bbca" />
+<img width="1202" height="567" alt="image" src="https://github.com/user-attachments/assets/5a86bc4e-e554-4d35-b543-afd206141af6" />
+<img width="1202" height="576" alt="image" src="https://github.com/user-attachments/assets/7808b479-25c2-4de7-96db-7fe2fed1d36e" />
+<img width="1198" height="814" alt="image" src="https://github.com/user-attachments/assets/5d651df3-e35e-4f0b-bf13-5b74b7453f7f" />
+<img width="1192" height="576" alt="image" src="https://github.com/user-attachments/assets/8f48f38f-34d3-4ba5-929e-275f2f30307f" />
+<img width="1196" height="723" alt="image" src="https://github.com/user-attachments/assets/f1fc9479-38aa-4efa-84ae-86093069609b" />
+<img width="1204" height="581" alt="image" src="https://github.com/user-attachments/assets/989a0a08-e632-4f43-a12a-8d2f5a66cec1" />
+<img width="1197" height="641" alt="image" src="https://github.com/user-attachments/assets/e2283bde-6b07-4909-bcd4-d5f412e0b207" />
+<img width="1205" height="583" alt="image" src="https://github.com/user-attachments/assets/cb652057-4e24-4cfe-90e0-3b178a92ffce" />
+<img width="1201" height="618" alt="image" src="https://github.com/user-attachments/assets/4135390e-10b0-4104-945f-cc6fcaa407a8" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Future Recommendations: 
