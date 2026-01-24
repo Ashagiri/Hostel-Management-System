@@ -188,9 +188,17 @@ Handles HTTP requests and serves web pages to users.
 
 
 
+# 5.Conclusion and Future Recommendation: 
+## Conclusion: 
+The Hostel Management System effectively integrates essential functionalities such as student 
+registration, room booking, secure login, and online payment into a single, streamlined platform. 
+By digitizing these processes, the system reduces paperwork, speeds up operations, and minimizes 
+errors. It provides a convenient and transparent environment for both students and hostel 
+administrators, ensuring smooth day-to-day management of hostel activities. This solution not 
+only improves operational efficiency but also enhances the overall user experience for all 
+stakeholders 
 
-
-# Future Recommendations: 
+## Future Recommendations: 
 To further enhance the system, the following improvements are recommended: 
 1. 
 Mobile Application Integration 
