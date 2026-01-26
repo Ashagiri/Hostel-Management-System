@@ -19,12 +19,15 @@ To provide a secure admin login system
 To store and retrieve data using a database
 To improve accuracy and reduce paperwork
 
-# Team Members:
-1. Asha Giri
-2. Komal Basnet
-3. Jitendra Narayan Raut
-4. Gagan Parsai
-
+# ⚙️ Features
+Admin Login & Logout System
+Student Management (Add, Update, Delete, View)
+Room Management
+Warden Management
+Payment Management
+Dashboard with hostel statistics
+Database connectivity
+User-friendly interface
 # 1. Introduction: 
 
 The Hostel Management System is a database management system designed to streamline the 
