@@ -54,3 +54,8 @@ Server: Apache (XAMPP / WAMP)
 # 📂 Repository Structure
 Hostel-Management-System/ │ ├── admin/ # Admin dashboard files │ ├── dashboard.php │ ├── profile.php │ └── logout.php │ ├── student/ # Student management modules │ ├── add_student.php │ ├── view_student.php │ └── update_student.php │ ├── warden/ # Warden management modules │ ├── add_warden.php │ └── view_warden.php │ ├── room/ # Room management modules │ ├── add_room.php │ └── view_room.php │ ├── payment/ # Payment management modules │ ├── add_payment.php │ └── view_payment.php │ ├── images/ # Images and output screenshots │ ├── login.png │ ├── dashboard.png │ └── output.png │ ├── css/ # CSS files │ └── style.css │ ├── js/ # JavaScript files │ └── script.js │ ├── database/ # Database files │ └── hostel_db.sql │ ├── index.php # Main entry file ├── config.php # Database configuration └── README.md # Project documentation
 
+Test ID,Feature,Description,Expected Result,Status
+TC-01,Root Redirect,Open main GitHub Pages URL.,Automatically redirects to home.html.,✅ Pass
+TC-02,Admin Login,Enter correct credentials in adminlogin.html.,Redirects to admin_dashboard.html.,✅ Pass
+TC-03,Registration,Submit the form in registration.html.,Data is captured and success message appears.,✅ Pass
+TC-04,Navigation,"Click ""About"" link on the home page.",Loads abouthostel.html correctly.,✅ Pass
