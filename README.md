@@ -52,19 +52,8 @@ Database: MySQL
 Server: Apache (XAMPP / WAMP)
 
 # 📂 Repository Structure
-📂 Hostel-Management-System
-├── 📁 code/
-│   ├── 📄 home.html (Landing Page)
-│   ├── 📄 adminlogin.html
-│   ├── 📄 studentdashboard.html
-│   └── 📄 style.css
-├── 📁 database/
-│   └── 📄 hostel_db.sql (Database Schema)
-├── 📁 docs/
-│   └── 📄 README.md (Waterfall Methodology)
-├── 📄 index.html (Root Redirect)
-└── 📄 README.md (Project Overview & Test Cases)
-
+📂 Repository Structure
+Hostel-Management-System/ │ ├── admin/ # Admin dashboard files │ ├── dashboard.php │ ├── profile.php │ └── logout.php │ ├── student/ # Student management modules │ ├── add_student.php │ ├── view_student.php │ └── update_student.php │ ├── warden/ # Warden management modules │ ├── add_warden.php │ └── view_warden.php │ ├── room/ # Room management modules │ ├── add_room.php │ └── view_room.php │ ├── payment/ # Payment management modules │ ├── add_payment.php │ └── view_payment.php │ ├── images/ # Images and output screenshots │ ├── login.png │ ├── dashboard.png │ └── output.png │ ├── css/ # CSS files │ └── style.css │ ├── js/ # JavaScript files │ └── script.js │ ├── database/ # Database files │ └── hostel_db.sql │ ├── index.php # Main entry file ├── config.php # Database configuration └── README.md # Project documentation
 
 # Testing:
 Test ID,Feature,Description,Expected Result,Status
