@@ -10,13 +10,17 @@
       background-color: #f4f6f9;
       margin: 0;
       padding: 20px;
-      background-image: url(https://media.istockphoto.com/id/665422266/photo/clean-hostel-room-with-wooden-bunk-beds.jpg?s=612x612&w=0&k=20&c=Tup_LucmW553c7Ibm65Y7347DXWnWa6V2sySVXg0S6s=);
+      background-image: url('https://media.istockphoto.com/id/665422266/photo/clean-hostel-room-with-wooden-bunk-beds.jpg?s=612x612&w=0&k=20&c=Tup_LucmW553c7Ibm65Y7347DXWnWa6V2sySVXg0S6s=');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
     }
 
     h1 {
       text-align: center;
       color: #003366;
       margin-bottom: 30px;
+      text-shadow: 1px 1px 2px #fff;
     }
 
     .booking-form {
@@ -27,7 +31,7 @@
       border-radius: 12px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
       color: #003366;
-      opacity: 0.7;
+      opacity: 0.95;
     }
 
     .form-group {
@@ -70,8 +74,7 @@
   <h1>Hostel Room Booking</h1>
 
   <div class="booking-form">
-    <form action="#" method="POST">
-
+    <form onsubmit="validateBookingForm(event)">
       <div class="form-group">
         <label for="studentName">Student Name</label>
         <input type="text" id="studentName" name="student_name" required>
@@ -124,6 +127,39 @@
       <button type="submit">Book Room</button>
     </form>
   </div>
+
+  <script>
+    function validateBookingForm(event) {
+      event.preventDefault();
+
+      const studentName = document.getElementById('studentName').value.trim();
+      const studentId = document.getElementById('studentId').value.trim();
+      const contact = document.getElementById('contact').value.trim();
+
+      const namePattern = /^[A-Za-z ]{3,}$/;
+      const idPattern = /[A-Za-z0-9]{4,10}$/;
+      const contactPattern = /^(98|97)\d{8}$/;
+
+      if (!namePattern.test(studentName)) {
+        alert("Student name must contain only letters and be at least 3 characters.");
+        return;
+      }
+
+      if (!idPattern.test(studentId)) {
+        alert("Student ID must be at least 4 uppercase letters.");
+        return;
+      }
+
+      if (!contactPattern.test(contact)) {
+        alert("Contact number must be 10 digits starting with 98 or 97.");
+        return;
+      }
+
+      // All validations passed
+      alert("Booking successful!");
+      window.location.href = "roomreserve.html";
+    }
+  </script>
 
 </body>
 </html>
