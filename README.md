@@ -12,15 +12,12 @@ Komal Basnet
 Gagan Prasai
 Jitendra Narayan Raut
 
-# Objective:
- 
-• To Centralize Hostel Data Management 
-
-• To Maintain Security, Integrity, and Backup of Hostel Data 
-
-• To Automate Daily Hostel Operations 
-
-• To Improve Communication Between Students and Hostel Staff
+# 🎯 Objectives
+To automate hostel management tasks
+To manage student, room, warden, and payment records efficiently
+To provide a secure admin login system
+To store and retrieve data using a database
+To improve accuracy and reduce paperwork
 
 # Team Members:
 1. Asha Giri
