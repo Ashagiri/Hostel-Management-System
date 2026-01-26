@@ -1,4 +1,3 @@
-/* Universal Reset */
 * {
   margin: 0;
   padding: 0;
@@ -6,7 +5,6 @@
   font-family: "Segoe UI", sans-serif;
 }
 
-/* LOGIN PAGE */
 .login-body {
   background: linear-gradient(135deg, #2c3e50, #3498db);
   height: 100vh;
@@ -53,7 +51,6 @@
   background: #1c5980;
 }
 
-/* DASHBOARD */
 .dashboard-body {
   background: #ecf0f1;
   padding: 40px;
@@ -91,7 +88,6 @@
   margin-bottom: 10px;
 }
 
-/* Reset and base styles */
 * {
   margin: 0;
   padding: 0;
@@ -102,7 +98,6 @@ body {
   background-color: #f4f6f9;
 }
 
-/* Top Navbar */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -140,12 +135,10 @@ body {
   border: 2px solid white;
 }
 
-/* Layout */
 .container {
   display: flex;
 }
 
-/* Sidebar */
 .sidebar {
   width: 220px;
   background-color: #34495e;
@@ -171,7 +164,6 @@ body {
   border-left: 5px solid #3498db;
 }
 
-/* Main content */
 .dashboard-content {
   flex: 1;
   padding: 40px;

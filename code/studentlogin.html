@@ -66,12 +66,14 @@ form button:hover {
 <body>
 
   <div class="login-container">
-    <h2>Hostel Login</h2>
-    <form>
-      <input type="text" placeholder="Username" required>
-      <input type="password" placeholder="Password" required>
-      <a href="studentdashboard.html">Login</a>
-    </form>
+  <form action="student_login.php" method="POST">
+  <h2>Student Login</h2>
+  <label>Email:</label>
+  <input type="email" name="email" required />
+  <label>Password:</label>
+  <input type="password" name="password" required />
+  <button type="submit">Login</button>
+</form>
   </div>
 </body>
 </html>

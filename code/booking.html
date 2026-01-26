@@ -74,7 +74,7 @@
   <h1>Hostel Room Booking</h1>
 
   <div class="booking-form">
-    <form onsubmit="validateBookingForm(event)">
+    <form onsubmit="redirectToroomreserve(event)">
       <div class="form-group">
         <label for="studentName">Student Name</label>
         <input type="text" id="studentName" name="student_name" required>
@@ -129,35 +129,9 @@
   </div>
 
   <script>
-    function validateBookingForm(event) {
-      event.preventDefault();
-
-      const studentName = document.getElementById('studentName').value.trim();
-      const studentId = document.getElementById('studentId').value.trim();
-      const contact = document.getElementById('contact').value.trim();
-
-      const namePattern = /^[A-Za-z ]{3,}$/;
-      const idPattern = /[A-Za-z0-9]{4,10}$/;
-      const contactPattern = /^(98|97)\d{8}$/;
-
-      if (!namePattern.test(studentName)) {
-        alert("Student name must contain only letters and be at least 3 characters.");
-        return;
-      }
-
-      if (!idPattern.test(studentId)) {
-        alert("Student ID must be at least 4 uppercase letters.");
-        return;
-      }
-
-      if (!contactPattern.test(contact)) {
-        alert("Contact number must be 10 digits starting with 98 or 97.");
-        return;
-      }
-
-      // All validations passed
-      alert("Booking successful!");
-      window.location.href = "roomreserve.html";
+    function redirectToroomreserve(event) {
+      event.preventDefault(); 
+      window.location.href = "roomreserve.html"; 
     }
   </script>
 

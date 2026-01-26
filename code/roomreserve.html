@@ -45,12 +45,17 @@
   </style>
 </head>
 <body>
+<form action="room_booking.php" method="POST">
+  <h2>Room Reservation</h2>
+  <label>Room Number:</label>
+  <input type="text" name="room_number" required />
 
-  <div class="payment-box">
-    <h2>Proceed to Payment</h2>
-    <p>Your room has been reserved. Please complete your payment below.</p>
-    <button onclick="payment.html">Pay Now</button>
-  </div>
+  <label>Booking Date:</label>
+  <input type="date" name="booking_date" required />
+
+  <button type="submit">Book Room</button>
+</form>
+
 
 </body>
 </html>
