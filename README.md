@@ -28,6 +28,12 @@ Payment Management
 Dashboard with hostel statistics
 Database connectivity
 User-friendly interface
+
+# 🛠️ Technologies Used
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
+Server: Apache (XAMPP / WAMP)
 # 1. Introduction: 
 
 The Hostel Management System is a database management system designed to streamline the 
