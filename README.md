@@ -1,8 +1,12 @@
 # Hostel-Management-System
 
-A hostel is a type of budget-friendly accommodation that provides affordable living or lodging, especially for students, travelers, or people staying away from home. Unlike traditional hotels, hostels focus on shared spaces and community living, which helps reduce costs and encourages social interaction among residents.
+📌 Project Overview
+The Hostel Management System is a web-based application designed to manage hostel operations efficiently.
+It helps administrators handle student records, room allocation, warden details, payments, and other hostel-related activities in a centralized and organized manner.
 
-This project includes features like student registration, room allocation, fee tracking, attendance, and detailed reports — all in one centralized system to modernize hostel operations.
+This project aims to reduce manual work, improve data accuracy, and provide an easy-to-use interface for hostel management.
+
+
 
 # Objective:
  
