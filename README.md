@@ -53,12 +53,12 @@ Server: Apache (XAMPP / WAMP)
 
 # ⚙️ How to Run
 Follow these steps to set up and run the project locally using XAMPP or WAMP:
-1. Prerequisites
+## 1. Prerequisites
 Install XAMPP or WAMP.
 
 A web browser (Chrome, Firefox, etc.).
 
-2. Project Setup
+## 2. Project Setup
 Download/Clone the Repository: * Clone this repo or download the ZIP file.
 
 Move the project folder into your server's local directory:
