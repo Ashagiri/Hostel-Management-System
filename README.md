@@ -69,6 +69,7 @@ WAMP: C:/wamp64/www/Hostel-Management-System
 
 3. Database Configuration
 Start Apache and MySQL from your XAMPP/WAMP Control Panel.
+Open your browser and go to http://localhost/phpmyadmin/.
 
 # 📂 Repository Structure
 📂 Repository Structure
