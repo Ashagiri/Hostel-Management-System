@@ -25,23 +25,16 @@ To store and retrieve data using a database
 
 To improve accuracy and reduce paperwork
 
-# ⚙️ Features:
-Admin Login & Logout System
+# 🌟 Features
+Student Management: Effortlessly add, update, and track student details and residency status.
 
-Student Management (Add, Update, Delete, View)
+Room Allocation: Manage room availability and automate the assignment process.
 
-Room Management
+Fee Tracking: Keep record of payments and pending dues for each resident.
 
-Warden Management
+Admin Dashboard: High-level overview of total occupants, available rooms, and alerts.
 
-Payment Management
-
-Dashboard with hostel statistics
-
-Database connectivity
-
-User-friendly interface
-
+Search & Filter: Quick search functionality to find students by name, ID, or room number.
 # 🛠️ Built With
 Frontend: HTML, CSS, JavaScript
 
