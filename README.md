@@ -70,6 +70,7 @@ WAMP: C:/wamp64/www/Hostel-Management-System
 3. Database Configuration
 Start Apache and MySQL from your XAMPP/WAMP Control Panel.
 Open your browser and go to http://localhost/phpmyadmin/.
+Create a new database named hostel_db (or the name specified in your config file).
 
 # 📂 Repository Structure
 📂 Repository Structure
