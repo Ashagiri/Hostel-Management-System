@@ -1,14 +1,12 @@
 # 🏨 Hostel Management System
 An efficient digital solution for managing hostel operations, resident records, and administrative tasks. This system replaces manual paperwork with an automated workflow for room assignments and student management.
 
-# 👥 Team Members:
-Asha Giri
+## 👥 Team Members
 
-Komal Basnet
-
-Gagan Prasai
-
-Jitendra Narayan Raut
+* **[Asha Giri](https://github.com/Ashagiri)** - Full Stack Developer / UI Design
+* **[Komal Basnet](https://github.com/username)** - Backend & Database Management
+* **[Gagan Prasai](https://github.com/username)** - Frontend Implementation
+* **[Jitendra Narayan Raut](https://github.com/username)** - Documentation & Testing
 
 # 🎯 Objectives:
 To automate hostel management tasks
