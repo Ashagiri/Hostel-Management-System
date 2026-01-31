@@ -42,7 +42,7 @@ Database connectivity
 
 User-friendly interface
 
-# 🛠️ Technologies Used
+# 🛠️ Built With
 Frontend: HTML, CSS, JavaScript
 
 Backend: PHP
