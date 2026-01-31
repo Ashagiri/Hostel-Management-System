@@ -72,7 +72,8 @@ Follow these steps to set up and run the project locally using XAMPP or WAMP:
 2. Open your browser and go to http://localhost/phpmyadmin/.
 3. Create a new database named hostel_db (or the name specified in your config file).
 
-4. Import the SQL file: Look for a .sql file in the project folder, click the Import tab in phpMyAdmin, and upload it to populate the tables.
+4. 
+1. Import the SQL file: Look for a .sql file in the project folder, click the Import tab in phpMyAdmin, and upload it to populate the tables.
 
 ## 4. Configure Connection
 Open the database connection file (usually config.php or db_connect.php) in your code editor.
