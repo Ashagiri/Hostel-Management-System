@@ -51,7 +51,7 @@ Database: MySQL
 
 Server: Apache (XAMPP / WAMP)
 
-⚙️ How to Run
+# ⚙️ How to Run
 Clone the project:
 
 Bash
