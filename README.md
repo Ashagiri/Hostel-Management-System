@@ -52,24 +52,7 @@ Database: MySQL
 Server: Apache (XAMPP / WAMP)
 
 # ⚙️ How to Run
-1. Clone the project:
 
-Bash
-git clone https://github.com/Ashagiri/Hostel-Management-System.git
-
-2. Install Backend Dependencies:
-
-Bash
-cd server && npm install
-
-3. Install Frontend Dependencies:
-
-Bash
-cd client && npm install
-
-4. Environment Setup: Configure your MONGODB_URI in a .env file.
-
-5. Start the Application: Run npm start in both folders.
 
 # 📂 Repository Structure
 📂 Repository Structure
