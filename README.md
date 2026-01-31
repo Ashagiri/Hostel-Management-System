@@ -52,10 +52,15 @@ Database: MySQL
 Server: Apache (XAMPP / WAMP)
 
 # ⚙️ How to Run
-Clone the project:
+1. Clone the project:
 
 Bash
 git clone https://github.com/Ashagiri/Hostel-Management-System.git
+
+2. Install Backend Dependencies:
+
+Bash
+cd server && npm install
 
 # 📂 Repository Structure
 📂 Repository Structure
