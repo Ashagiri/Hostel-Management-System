@@ -9,15 +9,15 @@ An efficient digital solution for managing hostel operations, resident records, 
 * **[Jitendra Narayan Raut](https://github.com/username)** - Documentation & Testing
 
 # 🎯 Objectives:
-To automate hostel management tasks
+To automate hostel management tasks.
 
-To manage student, room, warden, and payment records efficiently
+To manage student, room, warden, and payment records efficiently.
 
-To provide a secure admin login system
+To provide a secure admin login system.
 
-To store and retrieve data using a database
+To store and retrieve data using a database.
 
-To improve accuracy and reduce paperwork
+To improve accuracy and reduce paperwork.
 
 # 🌟 Features
 Student Management: Effortlessly add, update, and track student details and residency status.
