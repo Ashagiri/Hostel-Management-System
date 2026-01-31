@@ -69,6 +69,7 @@ cd client && npm install
 
 4. Environment Setup: Configure your MONGODB_URI in a .env file.
 
+5. Start the Application: Run npm start in both folders.
 
 # 📂 Repository Structure
 📂 Repository Structure
