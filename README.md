@@ -67,3 +67,6 @@ TC-04,Navigation,"Click ""About"" link on the home page.",Loads abouthostel.html
 In conclusion, the Hostel Management System successfully transitions hostel administration from manual, paper-based processes to a streamlined digital environment. By centralizing student records, room allocations, and payment tracking into a single web-based application, the system achieves its primary objective of improving data accuracy and organizational efficiency.
 
 The implementation of an easy-to-use interface, as demonstrated in the live deployment, ensures that both administrators and students can navigate hostel activities with minimal effort. Ultimately, this project provides a scalable and reliable framework that significantly reduces the administrative workload, meeting all the goals established during the initial design and testing phases.
+
+📜 License
+This project is licensed under the MIT License.
