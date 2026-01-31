@@ -68,11 +68,11 @@ Follow these steps to set up and run the project locally using XAMPP or WAMP:
 * * WAMP: C:/wamp64/www/Hostel-Management-System
 
 ## 3. Database Configuration
-Start Apache and MySQL from your XAMPP/WAMP Control Panel.
-Open your browser and go to http://localhost/phpmyadmin/.
-Create a new database named hostel_db (or the name specified in your config file).
+1. Start Apache and MySQL from your XAMPP/WAMP Control Panel.
+2. Open your browser and go to http://localhost/phpmyadmin/.
+3. Create a new database named hostel_db (or the name specified in your config file).
 
-Import the SQL file: Look for a .sql file in the project folder, click the Import tab in phpMyAdmin, and upload it to populate the tables.
+4. Import the SQL file: Look for a .sql file in the project folder, click the Import tab in phpMyAdmin, and upload it to populate the tables.
 
 ## 4. Configure Connection
 Open the database connection file (usually config.php or db_connect.php) in your code editor.
