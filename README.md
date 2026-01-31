@@ -74,5 +74,5 @@ In conclusion, the Hostel Management System successfully transitions hostel admi
 
 The implementation of an easy-to-use interface, as demonstrated in the live deployment, ensures that both administrators and students can navigate hostel activities with minimal effort. Ultimately, this project provides a scalable and reliable framework that significantly reduces the administrative workload, meeting all the goals established during the initial design and testing phases.
 
-📜 License
+# 📜 License
 This project is licensed under the MIT License.
