@@ -74,6 +74,16 @@ Create a new database named hostel_db (or the name specified in your config file
 
 Import the SQL file: Look for a .sql file in the project folder, click the Import tab in phpMyAdmin, and upload it to populate the tables.
 
+## 4. Configure Connection
+Open the database connection file (usually config.php or db_connect.php) in your code editor.
+
+Ensure the credentials match your local setup:
+
+PHP
+$servername = "localhost";
+$username = "root";
+$password = ""; // Default is empty for XAMPP
+$dbname = "hostel_db";
 
 # 📂 Repository Structure
 📂 Repository Structure
