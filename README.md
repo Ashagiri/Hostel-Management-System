@@ -87,7 +87,7 @@ $dbname = "hostel_db";
 
 
 ## 5. Launch the Application
-In your browser, navigate to: http://localhost/Hostel-Management-System/index.php
+* In your browser, navigate to: http://localhost/Hostel-Management-System/index.php
 
 
 # 📂 Repository Structure
