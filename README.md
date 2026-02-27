@@ -45,6 +45,7 @@ Server: Apache (XAMPP / WAMP)
 # ⚙️ How to Run
 
 Follow these steps to set up and run the project locally using XAMPP or WAMP:
+
 ## 1. Prerequisites
 * Install XAMPP or WAMP.
 
