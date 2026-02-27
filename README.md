@@ -29,6 +29,7 @@ Fee Tracking: Keep record of payments and pending dues for each resident.
 Admin Dashboard: High-level overview of total occupants, available rooms, and alerts.
 
 Search & Filter: Quick search functionality to find students by name, ID, or room number.
+
 # 🛠️ Built With
 Frontend: HTML, CSS, JavaScript
 
