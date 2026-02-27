@@ -10,6 +10,7 @@ An efficient digital solution for managing hostel operations, resident records, 
 
 # 🎯 Objectives:
 To automate hostel management tasks.
+
 To manage student, room, warden, and payment records efficiently.
 
 To provide a secure admin login system.
