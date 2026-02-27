@@ -21,6 +21,7 @@ To store and retrieve data using a database.
 To improve accuracy and reduce paperwork.
 
 # 🌟 Features
+
 Student Management: Effortlessly add, update, and track student details and residency status.
 
 Room Allocation: Manage room availability and automate the assignment process.
