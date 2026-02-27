@@ -33,6 +33,7 @@ Admin Dashboard: High-level overview of total occupants, available rooms, and al
 Search & Filter: Quick search functionality to find students by name, ID, or room number.
 
 # 🛠️ Built With
+
 Frontend: HTML, CSS, JavaScript
 
 Backend: PHP
