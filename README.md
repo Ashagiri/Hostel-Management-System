@@ -60,6 +60,7 @@ Follow these steps to set up and run the project locally using XAMPP or WAMP:
 * * XAMPP: C:/xampp/htdocs/Hostel-Management-System
 
 * * WAMP: C:/wamp64/www/Hostel-Management-System
+    
 
 ## 3. Database Configuration
 1. Start Apache and MySQL from your XAMPP/WAMP Control Panel.
