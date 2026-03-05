@@ -1,5 +1,4 @@
 # 🏨 Hostel Management System
-
 An efficient digital solution for managing hostel operations, resident records, and administrative tasks. This system replaces manual paperwork with an automated workflow for room assignments and student management.
 
 ## 👥 Team Members
